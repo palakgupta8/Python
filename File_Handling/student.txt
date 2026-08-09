@@ -1,0 +1,11 @@
+Name: Palak
+Age: 23
+Course: EngineeringName: abc
+Age: 20
+Course: Python
+--------------------
+--------------------
+Name: xyz
+Age: 21
+Course: xyzz
+--------------------
